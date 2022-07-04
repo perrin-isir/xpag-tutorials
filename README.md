@@ -1,5 +1,5 @@
 # xpag-tutorials
-Tutorials for xpag ([https://github.com/perrin-isir/xpag](https://github.com/perrin-isir/xpag))
+Tutorials for xpag, a modular reinforcement learning library with JAX agents ([https://github.com/perrin-isir/xpag](https://github.com/perrin-isir/xpag)).
 
 ### List of Colab notebooks:
 
